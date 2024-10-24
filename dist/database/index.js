@@ -24,4 +24,5 @@ class Database{
     }
 }
 
+
 exports. default = new Database();
